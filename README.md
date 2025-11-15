@@ -25,16 +25,24 @@ This project is designed as my flagship portfolio piece showcasing my work as a:
 # 🎥 Live Technical Demos
 
 ## 🌍 Procedural Generation & Custom Mesh Rendering
-| Procedural Generation | Custom Mesh Renderer | Save / Load System |
-| :---: | :---: | :---: |
-| ![](Media/generation.gif) | ![](Media/mesh_renderer.gif) | ![](Media/save_load.gif) |
-| Procedurally generated terrain with noise-based biomes. | World blocks rendered using **custom mesh pipeline** for performance, avoiding per-block GameObjects. | Full JSON serialization of world, player, inventory, and entities. |
+
+### Procedural Generation
+![](Media/generation.gif)  
+Procedurally generated terrain with noise-based biomes.
+
+### Custom Mesh Renderer
+![](Media/mesh_renderer.gif)  
+World blocks rendered using **custom mesh pipeline** for performance, avoiding per-block GameObjects.
+
+### Save / Load System
+![](Media/save_load.gif)  
+Full JSON serialization of world, player, inventory, and entities.
 
 ## 🎒 Inventory, Items & Crafting
-| Inventory System | Workbench / Multi-Stage Crafting |
-| :---: | :---: |
+| Inventory & Crafting System |
+| :---: |
 | ![](Media/crafting.gif) |
-| Drag & drop inventory, item stacking, and data-driven items. | Crafting system with specialized stations (e.g., furnace/workbench). |
+| Drag & drop inventory, item stacking, and data-driven items, combined with a crafting system featuring specialized stations (e.g., furnace/workbench). |
 
 ---
 
