@@ -33,7 +33,7 @@ This project is designed as my flagship portfolio piece showcasing my work as a:
 ## 🎒 Inventory, Items & Crafting
 | Inventory System | Workbench / Multi-Stage Crafting |
 | :---: | :---: |
-| ![](Media/inventory.gif) | ![](Media/crafting_bench.gif) |
+| ![](Media/crafting.gif) |
 | Drag & drop inventory, item stacking, and data-driven items. | Crafting system with specialized stations (e.g., furnace/workbench). |
 
 ---
@@ -92,7 +92,7 @@ A huge thanks to the people who helped shape this project:
 ### **Furkan Kırat** — *Lead Developer / Systems Programmer*  
 Designed the engine architecture, world generation, rendering pipeline, inventory, crafting, save/load, and core systems.
 
-### **[Halil Efe Çelik]** — *Art & Visual Assistance*  
+### **Halil Efe Çelik** — *Art & Visual Assistance*  
 Contributed to various visuals, UI enhancements, stylization passes, and animation refinements.
 
 ---
