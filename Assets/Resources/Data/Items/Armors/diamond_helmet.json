@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:diamond_helmet",
+  "icon": "Sprites/Items/diamond_helmet",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:diamond"],
+  "armorData": {
+    "slot": "head",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 3,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/diamond_helmet"
+  }
+}

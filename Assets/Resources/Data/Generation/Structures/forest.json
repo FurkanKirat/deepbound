@@ -1,0 +1,17 @@
+﻿{
+  "structures": [
+    {
+      "structureId": "cave_pocket",
+      "minY": "5%",
+      "maxY": "35%",
+      "chance": 0.08,
+      "layer": "BelowSurface"
+    },
+    {
+      "structureId": "tree",
+      "chance": 0.08,
+      "layer": "AboveSurface",
+      "bindToSurface": true
+    }
+  ]
+}

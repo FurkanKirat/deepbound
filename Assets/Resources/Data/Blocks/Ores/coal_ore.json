@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:coal_ore",
+  "icon": "block:coal_ore",
+  "mapColor": "#2F2F2F",
+  "placeSound": "block_placing",
+  "hardness": 2.0,
+  "dropItem": "item:coal",
+  "isSolid": true,
+  "isDestructible": true
+}

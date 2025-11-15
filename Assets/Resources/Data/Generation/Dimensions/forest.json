@@ -1,0 +1,20 @@
+﻿{
+  "id": "dimension:forest",
+  "width": "1500",
+  "height": "400",
+  "baseBlock": "block:dirt",
+  "surfaceBlock": "block:grass",
+  "stoneBlock": "block:stone",
+  "steps": [
+    { "type": "SurfaceHeightStep", "params": { "scale": 0.05 } },
+    { "type": "CaveGenerationStep", "params": { "scale": 0.1, "threshold": 0.55 } },
+    { "type": "TerrainFillStep" },
+    { "type": "OreGenerationStep" },
+
+    { "type": "StructurePlacingStep" },
+    { "type": "PlayerSpawnStep" }
+  ],
+  "oreConfigFile": "Data/Generation/OreConfig/forest",
+  "structureConfigFile": "Data/Generation/Structures/forest",
+  "playerSpawnConfigFile": "Data/Generation/PlayerSpawn/forest"
+}

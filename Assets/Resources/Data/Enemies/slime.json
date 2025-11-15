@@ -1,0 +1,16 @@
+﻿{
+  "id": "entity:slime",
+  "type": "slime",
+  "icon": "Sprites/Entities/Enemies/slime",
+  "baseStats": {
+    "speed": 2.5,
+    "damage": 5,
+    "maxHealth": 30
+  },
+  "damageType": "Physical",
+  "size": "1,1",
+  "aiBehavior": "ai:slime",
+  "movementBehavior": "movement:gravity",
+  "attackBehavior": "attack:enemy_melee",
+  "lootTable": "loot:entity:slime"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "id": "item:jump_boots",
+  "icon": "Sprites/Items/jump_boots",
+  "maxStack": 1,
+  "category": "accessory",
+  "tags": ["equipable", "accessory"],
+  "accessoryData": {
+    "stats": [
+      {
+        "type": "JumpForce",
+        "value": 1.5,
+        "operation": "Multiply"
+      }
+    ]
+  }
+}

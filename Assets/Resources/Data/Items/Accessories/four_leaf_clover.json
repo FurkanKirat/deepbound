@@ -1,0 +1,16 @@
+﻿{
+  "id": "item:four_leaf_clover",
+  "icon": "Sprites/Items/four_leaf_clover",
+  "maxStack": 1,
+  "category": "accessory",
+  "tags": ["equipable", "accessory"],
+  "accessoryData": {
+    "stats": [
+      {
+        "type": "CritRate",
+        "value": 0.20,
+        "operation": "Add"
+      }
+    ]
+  }
+}

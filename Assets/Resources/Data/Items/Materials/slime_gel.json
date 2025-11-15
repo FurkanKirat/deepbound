@@ -1,0 +1,6 @@
+﻿{
+  "id": "item:slime_gel",
+  "icon": "Sprites/Items/slime_gel",
+  "maxStack": 100,
+  "tags": ["material"]
+}

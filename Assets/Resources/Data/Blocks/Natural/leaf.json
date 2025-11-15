@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:leaf",
+  "icon": "block:leaf",
+  "mapColor": "#228B22",
+  "placeSound": "block_placing",
+  "hardness": 0.1,
+  "dropItem": "item:leaf",
+  "isSolid": true,
+  "isDestructible": true
+}

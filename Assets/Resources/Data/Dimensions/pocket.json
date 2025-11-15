@@ -1,0 +1,18 @@
+﻿{
+  "id": "dimension:pocket",
+  "layers": [
+    {
+      "id": "underground",
+      "resolver": "Always",
+      "lootTable": "loot:standard_chest",
+      "enemySpawnTable": "Data/EnemySpawnTables/forest_underground",
+      "parallaxLayers": [
+        {
+          "name": "cave",
+          "sprite": "Sprites/Parallax/cave",
+          "factor": 0.1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:hell_dirt",
+  "icon": "Sprites/Blocks/hell_dirt",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:hell_dirt",
+    "replaceExisting": false
+  }
+}

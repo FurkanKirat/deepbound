@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:diamond_ore",
+  "icon": "block:diamond_ore",
+  "mapColor": "#b9f2ff",
+  "placeSound": "block_placing",
+  "hardness": 2.0,
+  "dropItem": "item:diamond",
+  "isSolid": true,
+  "isDestructible": true
+}

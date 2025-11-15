@@ -1,0 +1,7 @@
+﻿{
+  "id": "item:arrow",
+  "icon": "Sprites/Items/arrow",
+  "maxStack": 999,
+  "category": "consumable",
+  "tags": ["consumable", "arrow"]
+}

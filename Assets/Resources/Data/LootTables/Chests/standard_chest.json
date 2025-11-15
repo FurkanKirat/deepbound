@@ -1,0 +1,61 @@
+﻿{
+  "id": "loot:standard_chest",
+  "pools": [
+    {
+      "rollCount": "10-15",
+      "entries": [
+        { "itemId": "item:stone", "weight": 40, "count": "16-32" },
+        { "itemId": "item:dirt", "weight": 20, "count": "16-32" },
+        { "itemId": "item:grass", "weight": 10, "count": "8-16" },
+        { "itemId": "item:sand", "weight": 10, "count": "8-16" },
+        { "itemId": "item:snow", "weight": 10, "count": "8-16" },
+        { "itemId": "item:ice", "weight": 10, "count": "4-8" }
+      ]
+    },
+    {
+      "rollCount": "4-6",
+      "entries": [
+        { "itemId": "item:wheat", "weight": 20, "count": "4-8" },
+        { "itemId": "item:wheat_seeds", "weight": 20, "count": "4-8" },
+        { "itemId": "item:bed", "weight": 10, "count": "1" },
+        { "itemId": "item:pillow", "weight": 5, "count": "1" },
+        { "itemId": "item:arrow", "weight": 20, "count": "8-16" },
+        { "itemId": "item:bow", "weight": 5, "count": "1" }
+      ]
+    },
+    {
+      "rollCount": "3-5",
+      "entries": [
+        { "itemId": "item:coal", "weight": 30, "count": "8-16" },
+        { "itemId": "item:iron_raw", "weight": 15, "count": "2-4" },
+        { "itemId": "item:gold_raw", "weight": 10, "count": "1-3" },
+      ]
+    },
+    {
+      "rollCount": "2-4",
+      "entries": [
+        { "itemId": "item:iron_ingot", "weight": 10, "count": "1-3" },
+        { "itemId": "item:gold_ingot", "weight": 5, "count": "1-2" },
+      ]
+    },
+    {
+      "rollCount": "1-2",
+      "entries": [
+        { "itemId": "item:stone_pickaxe", "weight": 10, "count": "1" },
+        { "itemId": "item:stone_sword", "weight": 10, "count": "1" },
+        { "itemId": "item:furnace", "weight": 5, "count": "1" },
+        { "itemId": "item:chest", "weight": 5, "count": "1" }
+      ]
+    },
+    {
+      "rollCount": "0-1",
+      "entries": [
+        { "itemId": "item:diamond_helmet", "weight": 1, "count": "1" },
+        { "itemId": "item:diamond_chestplate", "weight": 1, "count": "1" },
+        { "itemId": "item:diamond_pants", "weight": 1, "count": "1" },
+        { "itemId": "item:diamond_boots", "weight": 1, "count": "1" },
+        { "itemId": "item:empty", "weight": 20, "count": "1" }
+      ]
+    }
+  ]
+}

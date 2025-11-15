@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:furnace",
+  "icon": "Sprites/Blocks/furnace_0",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:furnace",
+    "replaceExisting": false
+  }
+}

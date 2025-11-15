@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:snow",
+  "icon": "Sprites/Blocks/snow",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:snow",
+    "replaceExisting": false
+  }
+}

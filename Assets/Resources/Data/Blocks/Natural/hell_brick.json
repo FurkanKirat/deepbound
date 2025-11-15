@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:hell_brick",
+  "icon": "block:hell_brick",
+  "mapColor": "#FFA500",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:hell_brick",
+  "isSolid": true,
+  "isDestructible": true
+}

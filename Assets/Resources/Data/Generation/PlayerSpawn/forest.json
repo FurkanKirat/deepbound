@@ -1,0 +1,8 @@
+﻿{
+  "minX": "45%",
+  "maxX": "50%",
+  "minY": "0%",
+  "maxY": "100%",
+  "surfaceOnly": true,
+  "maxAttempts": 100
+}

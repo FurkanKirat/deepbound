@@ -1,0 +1,6 @@
+﻿{
+  "id": "item:bottle",
+  "icon": "Sprites/Items/bottle",
+  "maxStack": 100,
+  "tags": ["material"]
+}

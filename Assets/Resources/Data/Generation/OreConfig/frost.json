@@ -1,0 +1,7 @@
+﻿{
+  "ores": [
+    { "blockId": "block:iron_ore", "minY": "0%", "maxY": "50%", "chance": 0.02 },
+    { "blockId": "block:gold_ore", "minY": "0%", "maxY": "50%", "chance": 0.025 },
+    { "blockId": "block:coal_ore", "minY": "0%", "maxY": "50%", "chance": 0.03 }
+  ]
+}

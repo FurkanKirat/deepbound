@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:gold_helmet",
+  "icon": "Sprites/Items/gold_helmet",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:gold"],
+  "armorData": {
+    "slot": "head",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 3,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/gold_helmet"
+  }
+}

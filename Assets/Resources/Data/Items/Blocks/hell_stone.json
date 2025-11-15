@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:hell_stone",
+  "icon": "Sprites/Blocks/hell_stone",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:hell_stone",
+    "replaceExisting": false
+  }
+}

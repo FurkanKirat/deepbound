@@ -1,0 +1,10 @@
+﻿{
+  "id": "item:wheat_seeds",
+  "behavior": "itembehavior:seed",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["seed"],
+  "cropData": {
+    "cropId": "block:wheat"
+  }
+}

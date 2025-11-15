@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:gold_chestplate",
+  "icon": "Sprites/Items/gold_chestplate",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:gold"],
+  "armorData": {
+    "slot": "chest",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 5,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/gold_chestplate"
+  }
+}

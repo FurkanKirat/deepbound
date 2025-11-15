@@ -1,0 +1,16 @@
+﻿{
+  "id": "item:shield",
+  "icon": "Sprites/Items/shield",
+  "maxStack": 1,
+  "category": "accessory",
+  "tags": ["equipable", "accessory"],
+  "accessoryData": {
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 10,
+        "operation": "Add"
+      }
+    ]
+  }
+}

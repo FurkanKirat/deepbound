@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:iron_pants",
+  "icon": "Sprites/Items/iron_pants",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:iron"],
+  "armorData": {
+    "slot": "pants",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 4,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/iron_pants"
+  }
+}

@@ -1,0 +1,47 @@
+﻿{
+  "id": "dimension:forest",
+  "layers": [
+    {
+      "id": "surface",
+      "resolver": "AboveSurface",
+      "lootTable": "loot:standard_chest",
+      "enemySpawnTable": "Data/EnemySpawnTables/forest_surface",
+      "parallaxLayers": [
+        {
+          "name": "sky",
+          "sprite": "Sprites/Parallax/sky",
+          "factor": 0.1
+        },
+        {
+          "name": "clouds",
+          "sprite": "Sprites/Parallax/clouds",
+          "factor": 0.2
+        },
+        {
+          "name": "bush",
+          "sprite": "Sprites/Parallax/bush",
+          "factor": 0.3
+        },
+        {
+          "name": "detail",
+          "sprite": "Sprites/Parallax/detail",
+          "factor": 0.7
+        }
+      ]
+    },
+    
+    {
+      "id": "underground",
+      "resolver": "BelowSurface",
+      "lootTable": "loot:standard_chest",
+      "enemySpawnTable": "Data/EnemySpawnTables/forest_underground",
+      "parallaxLayers": [
+        {
+          "name": "cave",
+          "sprite": "Sprites/Parallax/cave",
+          "factor": 0.1
+        }
+      ]
+    }
+  ]
+}

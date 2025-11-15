@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:speed_potion",
+  "icon": "Sprites/Items/speed_potion",
+  "maxStack": 10,
+  "category": "accessory",
+  "tags": ["potion", "consumable"],
+  "behavior": "itembehavior:drink_potion",
+  "potionData": {
+    "duration": 30,
+    "stats": [
+      {
+        "type": "Speed",
+        "value": 1.20,
+        "operation": "Multiply"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "id": "block:furnace",
+  "idleAnimation": {
+    "frames": ["block:furnace_0", "block:furnace_1"],
+    "speed": 1,
+    "loop": true
+  },
+  "mapColor": "#A9A9A9",
+  "behaviors": ["blockbehavior:crafting"],
+  "station": {
+    "station": "furnace"
+  },
+  "hardness": 2.0,
+  "dropItem": "item:furnace",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true
+}

@@ -1,0 +1,19 @@
+﻿{
+  "stats": {
+    "speed": 5,
+    "maxHealth": 100,
+    "damageMultiplier": 1,
+    "defense": 0,
+    "jumpForce": 10,
+    "critRate": 0.05,
+    "critDamage": 1.5
+  },
+  "respawnTime": 5,
+  "size": "1.0625,1.8125",
+  "healingCooldown": 20,
+  "showInMap": true,
+  "mapIcon": "Sprites/MapIcons/player",
+  "blockBreakingRange": 2,
+  "blockPlacingRange": 2,
+  "handOffset": "0.164, -0.001"
+}

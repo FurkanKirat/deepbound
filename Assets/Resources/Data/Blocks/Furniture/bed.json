@@ -1,0 +1,12 @@
+﻿{
+  "id": "block:bed",
+  "icon": "block:bed",
+  "mapColor": "#8B4513",
+  "behaviors": ["blockbehavior:bed"],
+  "hardness": 2.0,
+  "dropItem": "item:bed",
+  "size": "2,1",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true
+}

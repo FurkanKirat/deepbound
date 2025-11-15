@@ -1,0 +1,13 @@
+﻿{
+  "id": "loot:entity:slime",
+  "pools": [
+    {
+      "rollCount": "3-5",
+      "entries": [
+        { "itemId": "item:coal", "weight": 30, "count": "8-16" },
+        { "itemId": "item:iron_raw", "weight": 15, "count": "2-4" },
+        { "itemId": "item:gold_raw", "weight": 10, "count": "1-3" },
+      ]
+    }
+  ]
+}

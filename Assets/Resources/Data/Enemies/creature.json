@@ -1,0 +1,16 @@
+﻿{
+  "id": "entity:creature",
+  "type": "creature",
+  "icon": "Sprites/Entities/Enemies/creature_red",
+  "baseStats": {
+    "speed": 2.5,
+    "damage": 5,
+    "maxHealth": 30
+  },
+  "damageType": "Physical",
+  "size": "1,1",
+  "aiBehavior": "ai:creature",
+  "movementBehavior": "movement:gravity",
+  "attackBehavior": "attack:enemy_melee",
+  "lootTable": "loot:entity:creature"
+}

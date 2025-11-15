@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:iron_chestplate",
+  "icon": "Sprites/Items/iron_chestplate",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:iron"],
+  "armorData": {
+    "slot": "chest",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 5,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/iron_chestplate"
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "inventory": [
+    "item:diamond_sword",
+    "item:diamond_pickaxe",
+    "item:wood:100",
+    "item:stone:25",
+    "item:grass:50",
+    "item:bow",
+    "item:furnace",
+    "item:chest",
+    "item:bed:100",
+    "item:snow:100",
+    "item:diamond_chestplate",
+    "item:sneakers",
+    "item:jump_boots",
+    "item:shield",
+    "item:four_leaf_clover",
+    "item:arrow:100",
+    "item:pillow",
+    "item:speed_potion",
+    "item:healing_potion:5"
+  ]
+}

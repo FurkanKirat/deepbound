@@ -1,0 +1,11 @@
+﻿{
+  "structures": [
+    {
+      "structureId": "demon_castle",
+      "chance": 0.01,
+      "layer": "Always",
+      "count": 1,
+      "maxAttempts": 10000
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "id": "item:sneakers",
+  "icon": "Sprites/Items/sneakers",
+  "maxStack": 1,
+  "category": "accessory",
+  "tags": ["equipable", "accessory"],
+  "accessoryData": {
+    "stats": [
+      {
+        "type": "Speed",
+        "value": 2,
+        "operation": "Multiply"
+      }
+    ]
+  }
+}

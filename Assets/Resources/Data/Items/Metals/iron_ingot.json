@@ -1,0 +1,7 @@
+﻿{
+  "id": "item:iron_ingot",
+  "icon": "Sprites/Items/iron_ingot",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["material", "metal", "ingot"]
+}

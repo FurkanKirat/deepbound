@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:hell_dirt",
+  "icon": "block:hell_dirt",
+  "mapColor": "#FFA500",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:hell_dirt",
+  "isSolid": true,
+  "isDestructible": true
+}

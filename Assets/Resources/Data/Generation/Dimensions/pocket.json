@@ -1,0 +1,17 @@
+﻿{
+  "id": "dimension:pocket",
+  "width": "30",
+  "height": "20",
+  "baseBlock": "block:dirt",
+  "surfaceBlock": "block:grass",
+  "stoneBlock": "block:stone",
+  "steps": [
+    { "type": "SurfaceHeightStep", "params": { "scale": 0.05 } },
+    { "type": "TerrainFillStep" },
+    
+    { "type": "PlayerSpawnStep" }
+  ],
+  "oreConfigFile": "Data/Generation/OreConfig/forest",
+  "structureConfigFile": "Data/Generation/Structures/forest",
+  "playerSpawnConfigFile": "Data/Generation/PlayerSpawn/pocket"
+}

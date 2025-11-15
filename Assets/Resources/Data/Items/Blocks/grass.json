@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:grass",
+  "icon": "Sprites/Blocks/grass",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:grass",
+    "replaceExisting": false
+  }
+}

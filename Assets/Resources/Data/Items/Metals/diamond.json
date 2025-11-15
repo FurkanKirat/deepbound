@@ -1,0 +1,7 @@
+﻿{
+  "id": "item:diamond",
+  "icon": "Sprites/Items/diamond",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["material", "metal", "ingot"]
+}

@@ -1,0 +1,21 @@
+﻿{
+  "id": "entity:arrow",
+  "icon": "Sprites/Entities/Projectiles/arrow",
+  "attackBehavior": "attack:arrow",
+  "movementBehavior": "movement:arrow",
+  "baseStats": {
+    "speed": 15
+  },
+  "trail": {
+    "Icon": "Sprites/Trails/arrow",
+    "LifeTime": 0.25,
+    "StartScale": 0.6,
+    "FinalScale": 0.0,
+    "StartColor": "#FFFFFFFF",
+    "FinalColor": "#00FFFFFF"
+  },
+  "canPierce": false,
+  "destroyOnTileCollision": true,
+  "damageType": "Physical",
+  "size": "0.9,0.3"
+}

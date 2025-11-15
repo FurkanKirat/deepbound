@@ -1,0 +1,44 @@
+﻿{
+  "ores": [
+    {
+      "blockId": "block:coal_ore",
+      "minY": "40%",
+      "maxY": "80%",
+      "peakY": "60%",
+      "chanceAtPeak": 30,
+      "chanceAtMinMax": 15,
+      "shape": "Ellipse",
+      "veinSize": "5-10"
+    },
+    {
+      "blockId": "block:iron_ore",
+      "minY": "15%",
+      "maxY": "50%",
+      "peakY": "25%",
+      "chanceAtPeak": 40,
+      "chanceAtMinMax": 10,
+      "shape": "Ellipse",
+      "veinSize": "5-10"
+    },
+    {
+      "blockId": "block:gold_ore",
+      "minY": "0%",
+      "maxY": "25%",
+      "peakY": "10%",
+      "chanceAtPeak": 30,
+      "chanceAtMinMax": 5,
+      "shape": "RandomWalk",
+      "veinSize": "8-16"
+    },
+    {
+      "blockId": "block:diamond_ore",
+      "minY": "0%",
+      "maxY": "15%",
+      "peakY": "5%",
+      "chanceAtPeak": 20,
+      "chanceAtMinMax": 2,
+      "shape": "RandomWalk",
+      "veinSize": "6-12"
+    }
+  ]
+}

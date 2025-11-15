@@ -1,0 +1,40 @@
+﻿{
+  "spawn": {
+    "enemySpawnOn": true,
+    "maxEnemyCount": 20,
+    "nearestEnemySpawn": 10,
+    "farthestEnemySpawn": 20,
+    "enemySpawnInterval": 10,
+    "maxPortalCount": 1,
+    "portalSpawnInterval": 120
+  },
+  
+  "physics": {
+    "gravity": -20,
+    "maxFallSpeed": -30,
+    "groundFriction": 0.8,
+    "airFriction": 0.98,
+    "groundTolerance": 0.05
+  },
+  
+  "inventory": {
+    
+    "player": {
+      "hotbarSlotCount": 9,
+      "mainInventorySlotCount": 36,
+      "slotsPerRow": 9,
+      "hotbarStartIndex": 0,
+      "accessoryCount": 3
+    },
+    
+    "chest": {
+      "slotCount": 27,
+      "slotsPerRow": 9
+    }
+  },
+  
+  "input": {
+    "heldEventInterval": 0.1,
+    "slotSelectCooldown": 0.3
+  }
+}

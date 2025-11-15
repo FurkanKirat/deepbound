@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:gold_ore",
+  "icon": "block:gold_ore",
+  "mapColor": "#FFD700",
+  "placeSound": "block_placing",
+  "hardness": 2.0,
+  "dropItem": "item:gold_raw",
+  "isSolid": true,
+  "isDestructible": true
+}

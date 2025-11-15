@@ -1,0 +1,13 @@
+﻿{
+  "id": "item:gold_pickaxe",
+  "icon": "Sprites/Items/gold_pickaxe",
+  "behavior": "itembehavior:mine_block",
+  "maxStack": 1,
+  "useTime": 0.2,
+  "category": "tool",
+  "tags": ["tool", "pickaxe"],
+  "toolData": {
+    "toolType": "pickaxe",
+    "speed": 3.0
+  }
+}

@@ -1,0 +1,17 @@
+﻿[
+  {
+    "requires": ["item:gold_raw:10"],
+    "output": "item:gold_ingot:10",
+    "station": "furnace"
+  },
+  {
+    "requires": ["item:iron_raw:10"],
+    "output": "item:iron_ingot:10",
+    "station": "furnace"
+  },
+  {
+    "requires": ["item:sand:1"],
+    "output": "item:bottle:2",
+    "station": "furnace"
+  }
+]

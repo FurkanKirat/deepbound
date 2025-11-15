@@ -1,0 +1,18 @@
+﻿{
+  "id": "block:alchemy_table",
+  "idleAnimation": {
+    "frames": ["block:alchemy_table_0", "block:alchemy_table_1"],
+    "speed": 1,
+    "loop": true
+  },
+  "mapColor": "#A9A9A9",
+  "behaviors": ["blockbehavior:crafting"],
+  "station": {
+    "station": "AlchemyTable"
+  },
+  "hardness": 2.0,
+  "dropItem": "item:alchemy_table",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true
+}

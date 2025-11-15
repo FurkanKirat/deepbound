@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:wood",
+  "icon": "block:wood",
+  "mapColor": "#DEB887",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:wood",
+  "isSolid": true,
+  "isDestructible": true
+}

@@ -1,0 +1,17 @@
+﻿[
+  {
+    "requires": ["item:bottle:2"],
+    "output": "item:healing_potion:2",
+    "station": "AlchemyTable"
+  },
+  {
+    "requires": ["item:bottle"],
+    "output": "item:speed_potion",
+    "station": "AlchemyTable"
+  },
+  {
+    "requires": ["item:bottle", "item:slime_gel:10"],
+    "output": "item:jump_boost_potion",
+    "station": "AlchemyTable"
+  }
+]

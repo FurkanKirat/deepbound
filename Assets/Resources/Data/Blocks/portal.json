@@ -1,0 +1,14 @@
+﻿{
+  "id": "block:portal",
+  "idleAnimation": {
+    "frames": ["block:portal_0", "block:portal_1"],
+    "speed": 1,
+    "loop": true
+  },
+  "mapColor": "#800080",
+  "behaviors": ["blockbehavior:portal"],
+  "size": "2,3",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": false
+}

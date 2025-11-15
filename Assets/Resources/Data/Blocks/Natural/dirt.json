@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:dirt",
+  "icon": "block:dirt",
+  "mapColor": "#8B4513",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:dirt",
+  "isSolid": true,
+  "isDestructible": true
+}

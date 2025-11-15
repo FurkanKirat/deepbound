@@ -1,0 +1,106 @@
+﻿[
+  {
+    "requires": ["item:diamond:5","item:stone:10", "item:wood:6"],
+    "output": "item:alchemy_table",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:stone:10", "item:wood:6"],
+    "output": "item:furnace",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:wood","item:stone:10"],
+    "output": "item:stone_sword",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:wood","item:stone:5"],
+    "output": "item:stone_pickaxe",
+    "station": "workbench"
+  },
+  
+  {
+    "requires": ["item:wood","item:iron_ingot:10"],
+    "output": "item:iron_sword",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:wood","item:iron_ingot:5"],
+    "output": "item:iron_pickaxe",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:iron_ingot:10"],
+    "output": "item:iron_helmet",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:iron_ingot:20"],
+    "output": "item:iron_chestplate",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:iron_ingot:15"],
+    "output": "item:iron_pants",
+    "station": "workbench"
+  },
+  
+  {
+    "requires": ["item:wood","item:gold_ingot:10"],
+    "output": "item:gold_sword",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:wood","item:gold_ingot:5"],
+    "output": "item:gold_pickaxe",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:gold_ingot:10"],
+    "output": "item:gold_helmet",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:gold_ingot:20"],
+    "output": "item:gold_chestplate",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:gold_ingot:15"],
+    "output": "item:gold_pants",
+    "station": "workbench"
+  },
+  
+  {
+    "requires": ["item:wood","item:diamond:10"],
+    "output": "item:diamond_sword",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:wood","item:diamond:5"],
+    "output": "item:diamond_pickaxe",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:diamond:10"],
+    "output": "item:diamond_helmet",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:diamond:20"],
+    "output": "item:diamond_chestplate",
+    "station": "workbench"
+  },
+  {
+    "requires": ["item:diamond:15"],
+    "output": "item:diamond_pants",
+    "station": "workbench"
+  },
+  
+  {
+    "requires": ["item:wood","item:stone"],
+    "output": "item:arrow:3",
+    "station": "workbench"
+  }
+]

@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:leaf",
+  "icon": "Sprites/Blocks/leaf",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:leaf",
+    "replaceExisting": false
+  }
+}

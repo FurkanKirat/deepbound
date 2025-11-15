@@ -1,0 +1,6 @@
+﻿{
+  "id": "item:wheat",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["material", "crop"]
+}

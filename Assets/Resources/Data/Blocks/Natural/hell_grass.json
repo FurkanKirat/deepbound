@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:hell_grass",
+  "icon": "block:hell_grass",
+  "mapColor": "#FFA500",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:hell_grass",
+  "isSolid": true,
+  "isDestructible": true
+}

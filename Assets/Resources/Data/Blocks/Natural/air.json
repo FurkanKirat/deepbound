@@ -1,0 +1,8 @@
+﻿{
+  "id": "block:air",
+  "icon": "block:air",
+  "mapColor": "#FFFFFFFF",
+
+  "isSolid": false,
+  "isDestructible": false
+}

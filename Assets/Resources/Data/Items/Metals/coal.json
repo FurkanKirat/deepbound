@@ -1,0 +1,7 @@
+﻿{
+  "id": "item:coal",
+  "icon": "Sprites/Items/coal",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["material", "metal", "raw"]
+}

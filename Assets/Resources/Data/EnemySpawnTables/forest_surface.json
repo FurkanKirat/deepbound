@@ -1,0 +1,11 @@
+﻿{
+  "pools": [
+    {
+      "rollCount": "1",
+      "entries": [
+        { "enemyId": "entity:creature", "weight": 40},
+        { "enemyId": "entity:slime", "weight": 40}
+      ]
+    }
+  ]
+}

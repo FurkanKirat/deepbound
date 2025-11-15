@@ -1,0 +1,7 @@
+﻿[
+  {
+    "requires": ["item:wood:2"],
+    "output": "item:workbench",
+    "station": "hand"
+  }
+]

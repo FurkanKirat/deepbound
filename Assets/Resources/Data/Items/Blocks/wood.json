@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:wood",
+  "icon": "Sprites/Blocks/wood",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:wood",
+    "replaceExisting": false
+  }
+}

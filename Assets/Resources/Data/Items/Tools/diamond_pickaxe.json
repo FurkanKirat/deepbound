@@ -1,0 +1,13 @@
+﻿{
+  "id": "item:diamond_pickaxe",
+  "icon": "Sprites/Items/diamond_pickaxe",
+  "behavior": "itembehavior:mine_block",
+  "maxStack": 1,
+  "useTime": 0.2,
+  "category": "tool",
+  "tags": ["tool", "pickaxe"],
+  "toolData": {
+    "toolType": "pickaxe",
+    "speed": 4.0
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "id": "block:workbench",
+  "icon": "block:workbench",
+  "mapColor": "#DA6D42",
+  "behaviors": ["blockbehavior:crafting"],
+  "station": {
+    "station": "workbench"
+  },
+  "hardness": 2.0,
+  "dropItem": "item:workbench",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true
+}

@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:workbench",
+  "icon": "Sprites/Blocks/workbench",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:workbench",
+    "replaceExisting": false
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:iron_ore",
+  "icon": "block:iron_ore",
+  "mapColor": "#D8D8D8",
+  "placeSound": "block_placing",
+  "hardness": 2.0,
+  "dropItem": "item:iron_raw",
+  "isSolid": true,
+  "isDestructible": true
+}

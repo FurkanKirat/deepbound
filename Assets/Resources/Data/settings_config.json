@@ -1,0 +1,83 @@
+﻿{
+  "panels": [
+    {
+      "id": "video",
+      "displayNameKey": "settings.panel.video",
+      "scope": "MainMenu",
+      "settings": [
+        {
+          "key": "Resolution",
+          "type": "int2",
+          "options": ["1920,1080","1600,900","1280,720"],
+          "default": "1920,1080"
+        },
+        {
+          "key": "Fullscreen",
+          "type": "bool",
+          "default": true
+        },
+        {
+          "key": "QualityLevel",
+          "type": "enum",
+          "options": ["Low","Medium","High"],
+          "localize": true,
+          "optionKeys": ["settings.qualitylevel.low", "settings.qualitylevel.medium", "settings.qualitylevel.high"],
+          "default": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "displayNameKey": "settings.panel.audio",
+      "settings": [
+        {
+          "key": "MasterVolume",
+          "type": "float",
+          "min": 0,
+          "max": 1,
+          "step": 0.1,
+          "default": 1.0
+        },
+        {
+          "key": "MusicVolume",
+          "type": "float",
+          "min": 0,
+          "max": 1,
+          "step": 0.1,
+          "default": 0.8
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "displayNameKey": "settings.panel.general",
+      "settings": [
+        {
+          "key": "Language",
+          "type": "string",
+          "options": ["en","tr"],
+          "localize": true,
+          "optionKeys": ["settings.lang.en", "settings.lang.tr"],
+          "default": "en"
+        },
+        {
+          "key": "AutoSaveEnabled",
+          "type": "bool",
+          "default": true
+        },
+        {
+          "key": "AutoSaveInterval",
+          "type": "int",
+          "options": [300,500,600],
+          "default": 300
+        },
+        {
+          "key": "DestroyWorldCompletely",
+          "type": "bool",
+          "default": false
+        }
+      ]
+    }
+    
+  ]
+}

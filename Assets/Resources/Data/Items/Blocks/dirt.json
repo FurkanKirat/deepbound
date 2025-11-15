@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:dirt",
+  "icon": "Sprites/Blocks/dirt",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:dirt",
+    "replaceExisting": false
+  }
+}

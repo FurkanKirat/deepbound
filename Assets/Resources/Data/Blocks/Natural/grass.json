@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:grass",
+  "icon": "block:grass",
+  "mapColor": "#00FF00",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:grass",
+  "isSolid": true,
+  "isDestructible": true
+}

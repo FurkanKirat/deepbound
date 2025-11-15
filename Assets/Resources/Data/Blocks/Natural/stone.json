@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:stone",
+  "icon": "block:stone",
+  "mapColor": "#808080",
+  "placeSound": "block_placing",
+  "hardness": 3.0,
+  "dropItem": "item:stone",
+  "isSolid": true,
+  "isDestructible": true
+}

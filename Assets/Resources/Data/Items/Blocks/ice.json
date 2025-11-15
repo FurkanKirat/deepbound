@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:ice",
+  "icon": "Sprites/Blocks/ice",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:ice",
+    "replaceExisting": false
+  }
+}

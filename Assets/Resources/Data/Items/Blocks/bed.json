@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:bed",
+  "icon": "Sprites/Blocks/bed",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:bed",
+    "replaceExisting": false
+  }
+}

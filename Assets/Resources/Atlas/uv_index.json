@@ -1,0 +1,254 @@
+﻿{
+  "block:air": {
+    "Frames": [
+      {
+        "Positions": [
+          "0,0"
+        ]
+      }
+    ]
+  },
+  "block:alchemy": {
+    "Frames": [
+      {
+        "Positions": [
+          "1,0"
+        ]
+      },
+      {
+        "Positions": [
+          "2,0"
+        ]
+      }
+    ]
+  },
+  "block:bed": {
+    "Frames": [
+      {
+        "Positions": [
+          "3,0",
+          "4,0"
+        ],
+        "Size": "2,1"
+      }
+    ]
+  },
+  "block:chest": {
+    "Frames": [
+      {
+        "Positions": [
+          "5,0"
+        ]
+      }
+    ]
+  },
+  "block:coal": {
+    "Frames": [
+      {
+        "Positions": [
+          "6,0"
+        ]
+      }
+    ]
+  },
+  "block:default": {
+    "Frames": [
+      {
+        "Positions": [
+          "7,0"
+        ]
+      }
+    ]
+  },
+  "block:diamond": {
+    "Frames": [
+      {
+        "Positions": [
+          "8,0"
+        ]
+      }
+    ]
+  },
+  "block:dirt": {
+    "Frames": [
+      {
+        "Positions": [
+          "9,0"
+        ]
+      }
+    ]
+  },
+  "block:furnace": {
+    "Frames": [
+      {
+        "Positions": [
+          "10,0"
+        ]
+      },
+      {
+        "Positions": [
+          "11,0"
+        ]
+      }
+    ]
+  },
+  "block:gold": {
+    "Frames": [
+      {
+        "Positions": [
+          "12,0"
+        ]
+      }
+    ]
+  },
+  "block:grass": {
+    "Frames": [
+      {
+        "Positions": [
+          "13,0"
+        ]
+      }
+    ]
+  },
+  "block:hell": {
+    "Frames": [
+      {
+        "Positions": [
+          "14,0"
+        ]
+      },
+      {
+        "Positions": [
+          "15,0"
+        ]
+      },
+      {
+        "Positions": [
+          "16,0"
+        ]
+      },
+      {
+        "Positions": [
+          "17,0"
+        ]
+      }
+    ]
+  },
+  "block:ice": {
+    "Frames": [
+      {
+        "Positions": [
+          "18,0"
+        ]
+      }
+    ]
+  },
+  "block:iron": {
+    "Frames": [
+      {
+        "Positions": [
+          "19,0"
+        ]
+      }
+    ]
+  },
+  "block:leaf": {
+    "Frames": [
+      {
+        "Positions": [
+          "20,0"
+        ]
+      }
+    ]
+  },
+  "block:portal": {
+    "Frames": [
+      {
+        "Positions": [
+          "21,0",
+          "22,0",
+          "23,0",
+          "24,0",
+          "25,0",
+          "26,0"
+        ],
+        "Size": "2,3"
+      },
+      {
+        "Positions": [
+          "27,0",
+          "28,0",
+          "29,0",
+          "30,0",
+          "31,0",
+          "0,1"
+        ],
+        "Size": "2,3"
+      }
+    ]
+  },
+  "block:sand": {
+    "Frames": [
+      {
+        "Positions": [
+          "1,1"
+        ]
+      }
+    ]
+  },
+  "block:snow": {
+    "Frames": [
+      {
+        "Positions": [
+          "2,1"
+        ]
+      }
+    ]
+  },
+  "block:stone": {
+    "Frames": [
+      {
+        "Positions": [
+          "3,1"
+        ]
+      }
+    ]
+  },
+  "block:wheat": {
+    "Frames": [
+      {
+        "Positions": [
+          "4,1"
+        ]
+      },
+      {
+        "Positions": [
+          "5,1"
+        ]
+      },
+      {
+        "Positions": [
+          "6,1"
+        ]
+      }
+    ]
+  },
+  "block:wood": {
+    "Frames": [
+      {
+        "Positions": [
+          "7,1"
+        ]
+      }
+    ]
+  },
+  "block:workbench": {
+    "Frames": [
+      {
+        "Positions": [
+          "8,1"
+        ]
+      }
+    ]
+  }
+}

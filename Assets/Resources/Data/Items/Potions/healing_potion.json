@@ -1,0 +1,20 @@
+﻿{
+  "id": "item:healing_potion",
+  "icon": "Sprites/Items/healing_potion",
+  "maxStack": 10,
+  "category": "accessory",
+  "tags": ["potion", "consumable"],
+  "behavior": "itembehavior:drink_potion",
+  "potionData": {
+    "effects": [
+      {
+        "id": "healing",
+        "parameters": {"amount": 50.0}
+      },
+      {
+        "id": "healing_cooldown",
+        "parameters": {"amount": 15}
+      }
+    ]
+  }
+}

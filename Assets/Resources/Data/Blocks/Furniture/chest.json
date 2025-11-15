@@ -1,0 +1,12 @@
+﻿{
+  "id": "block:chest",
+  "icon": "block:chest",
+  "mapColor": "#DAA520",
+  "interactSound": "opened_chest",
+  "behaviors": ["blockbehavior:chest"],
+  "hardness": 2.0,
+  "dropItem": "item:chest",
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true
+}

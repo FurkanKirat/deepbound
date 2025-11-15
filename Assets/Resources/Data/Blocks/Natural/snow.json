@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:snow",
+  "icon": "block:snow",
+  "mapColor": "#FFFFFF",
+  "placeSound": "block_placing",
+  "hardness": 0.5,
+  "dropItem": "item:snow",
+  "isSolid": true,
+  "isDestructible": true
+}

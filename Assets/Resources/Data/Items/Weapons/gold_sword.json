@@ -1,0 +1,26 @@
+﻿{
+  "id": "item:gold_sword",
+  "icon": "Sprites/Items/gold_sword",
+  "behavior": "itembehavior:melee_attack",
+  "maxStack": 1,
+  "useTime": 0.2,
+  "category": "weapon",
+  "tags": ["weapon", "sword"],
+  "weaponData": {
+    "damage": 50,
+    "attackSpeed": 1,
+    "range": 2,
+    "damageType": "Physical",
+    "trail": {
+      "LifeTime": 0.25,
+      "StartScale": 0.6,
+      "FinalScale": 0.0,
+      "StartColor": "#FFFFFFFF",
+      "FinalColor": "#00FFFFFF",
+      "Count": 5,
+      "SpreadAngle": 270,
+      "SpeedMin": 1,
+      "SpeedMax": 2
+    }
+  }
+}

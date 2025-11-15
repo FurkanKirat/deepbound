@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:diamond_pants",
+  "icon": "Sprites/Items/diamond_pants",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:diamond"],
+  "armorData": {
+    "slot": "pants",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 4,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/diamond_pants"
+  }
+}

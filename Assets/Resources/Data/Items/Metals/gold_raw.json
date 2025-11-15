@@ -1,0 +1,7 @@
+﻿{
+  "id": "item:gold_raw",
+  "icon": "Sprites/Items/gold_raw",
+  "maxStack": 999,
+  "category": "material",
+  "tags": ["material", "metal", "raw"]
+}

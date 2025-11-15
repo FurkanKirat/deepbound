@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:iron_helmet",
+  "icon": "Sprites/Items/iron_helmet",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:iron"],
+  "armorData": {
+    "slot": "head",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 3,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/iron_helmet"
+  }
+}

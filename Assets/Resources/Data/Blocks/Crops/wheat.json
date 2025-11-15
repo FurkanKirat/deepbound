@@ -1,0 +1,13 @@
+﻿{
+  "id": "block:wheat",
+  "mapColor": "#FFFF00",
+  "behaviors": ["blockbehavior:crop"],
+  "hardness": 2.0,
+  "tags": ["interactable"],
+  "isSolid": false,
+  "isDestructible": true,
+  "crop":{
+    "growthTime": 10,
+    "harvestItem": "item:wheat"
+  }
+}

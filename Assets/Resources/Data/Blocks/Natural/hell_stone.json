@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:hell_stone",
+  "icon": "block:hell_stone",
+  "mapColor": "#FFA500",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:hell_stone",
+  "isSolid": true,
+  "isDestructible": true
+}

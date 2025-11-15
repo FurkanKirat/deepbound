@@ -1,0 +1,14 @@
+﻿{
+  "id": "entity:pillow",
+  "icon": "Sprites/Items/pillow",
+  "attackBehavior": "attack:enemy_melee",
+  "movementBehavior": "movement:boomerang",
+  "baseStats": {
+    "speed": 15,
+    "range": 3
+  },
+  "canPierce": false,
+  "destroyOnTileCollision": false,
+  "damageType": "Physical",
+  "size": "0.9,0.3"
+}

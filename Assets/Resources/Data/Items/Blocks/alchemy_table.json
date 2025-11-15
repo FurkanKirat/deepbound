@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:alchemy_table",
+  "icon": "Sprites/Blocks/alchemy_table_0",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:alchemy_table",
+    "replaceExisting": false
+  }
+}

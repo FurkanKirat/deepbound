@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:jump_boost_potion",
+  "icon": "Sprites/Items/jump_boost_potion",
+  "maxStack": 10,
+  "category": "accessory",
+  "tags": ["potion", "consumable"],
+  "behavior": "itembehavior:drink_potion",
+  "potionData": {
+    "duration": 30,
+    "stats": [
+      {
+        "type": "JumpForce",
+        "value": 1.20,
+        "operation": "Multiply"
+      }
+    ]
+  }
+}

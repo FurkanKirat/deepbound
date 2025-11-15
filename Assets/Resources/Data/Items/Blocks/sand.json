@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:sand",
+  "icon": "Sprites/Blocks/sand",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:sand",
+    "replaceExisting": false
+  }
+}

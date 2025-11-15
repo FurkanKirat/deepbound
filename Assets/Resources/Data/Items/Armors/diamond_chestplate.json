@@ -1,0 +1,18 @@
+﻿{
+  "id": "item:diamond_chestplate",
+  "icon": "Sprites/Items/diamond_chestplate",
+  "maxStack": 1,
+  "category": "armor",
+  "tags": ["equipable", "set:diamond"],
+  "armorData": {
+    "slot": "chest",
+    "stats": [
+      {
+        "type": "Defense",
+        "value": 5,
+        "operation": "Add"
+      }
+    ],
+    "sprite": "Sprites/Armor/diamond_chestplate"
+  }
+}

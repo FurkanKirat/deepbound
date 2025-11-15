@@ -1,0 +1,10 @@
+﻿{
+  "id": "block:sand",
+  "icon": "block:sand",
+  "mapColor": "#F4A460",
+  "placeSound": "block_placing",
+  "hardness": 1.0,
+  "dropItem": "item:sand",
+  "isSolid": true,
+  "isDestructible": true
+}

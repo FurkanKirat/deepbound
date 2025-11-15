@@ -1,0 +1,13 @@
+﻿{
+  "id": "item:bow",
+  "icon": "Sprites/Items/bow",
+  "behavior": "itembehavior:shoot_arrow",
+  "maxStack": 1,
+  "useTime": 0.5,
+  "category": "weapon",
+  "tags": ["weapon", "bow"],
+  "weaponData": {
+    "damage": 50,
+    "attackSpeed": 1
+  }
+}

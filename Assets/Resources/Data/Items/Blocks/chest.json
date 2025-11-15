@@ -1,0 +1,12 @@
+﻿{
+  "id": "item:chest",
+  "icon": "Sprites/Blocks/chest",
+  "behavior": "itembehavior:place_block",
+  "maxStack": 999,
+  "category": "block",
+  "tags": [],
+  "placeableData": {
+    "blockId": "block:chest",
+    "replaceExisting": false
+  }
+}

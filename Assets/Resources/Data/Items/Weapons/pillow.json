@@ -1,0 +1,14 @@
+﻿{
+  "id": "item:pillow",
+  "icon": "Sprites/Items/pillow",
+  "behavior": "itembehavior:throw_boomerang",
+  "maxStack": 1,
+  "useTime": 0.2,
+  "category": "weapon",
+  "tags": ["pillow"],
+  "weaponData": {
+    "damage": 50,
+    "attackSpeed": 1,
+    "range": 2
+  }
+}
